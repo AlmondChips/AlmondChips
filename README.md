@@ -12,6 +12,18 @@
 
 
 ## Projects
+### 2023-Q2 (React)
+✔️ [GraphiQL](https://graphiql-app-947b6.web.app/) - Made with [Alexandr Buhlak](https://github.com/saha80) and [Iliasov Damir ](https://github.com/IliasovDamir)</br>
+### 2023-Q1
+✔️ [Clone of "Human Benchmark"](https://webmavericks-rsclone.netlify.app/#main) - Back-End currently offline. Made with [ranynight](https://github.com/raNYnight) and [Iliasov Damir](https://github.com/IliasovDamir)</br>
+### 2022-Q3
+✔️ [Online Store](https://rss-school-online-store-ac-km.netlify.app/) - Made with my [teammate](https://github.com/KazakovMaksim)</br>
+✔️ [Gem-puzzle](https://almondchips.github.io/Gem-puzzle/Gem-Puzzle/)</br>
+✔️ [SongBird](https://rolling-scopes-school.github.io/almondchips-JSFE2022Q3/songbird/)</br>
+✔️ [Online-zoo](https://rolling-scopes-school.github.io/almondchips-JSFE2022Q3/online-zoo/pages/main/)</br>
+### 2022-Q2
+✔️ [Clone of "Momentum"](https://rolling-scopes-school.github.io/almondchips-JSFEPRESCHOOL2022Q2/stage1-tasks-momentum/)</br>
+✔️ [Travel](https://rolling-scopes-school.github.io/almondchips-JSFEPRESCHOOL2022Q2/travel/)</br>
 <!--
 
 **AlmondChips/AlmondChips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
