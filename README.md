@@ -22,7 +22,7 @@
 ✔️ [SongBird](https://rolling-scopes-school.github.io/almondchips-JSFE2022Q3/songbird/)</br>
 ✔️ [Online-zoo](https://rolling-scopes-school.github.io/almondchips-JSFE2022Q3/online-zoo/pages/main/)</br>
 ### 2022-Q2
-✔️ [Clone of "Momentum"](https://rolling-scopes-school.github.io/almondchips-JSFEPRESCHOOL2022Q2/stage1-tasks-momentum/)</br>
+✔️ [Clone of "Momentum"](https://almondchips-momentum.netlify.app/)</br>
 ✔️ [Travel](https://rolling-scopes-school.github.io/almondchips-JSFEPRESCHOOL2022Q2/travel/)</br>
 <!--
 
